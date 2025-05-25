@@ -1,0 +1,22 @@
+type,titre,auteurs,prix,quantite,attributs
+Roman,Les Chemins de la Liberté,"yahya,laila",120.0,5,"{'nb_pages': 450, 'categorie': 'adulte', 'genre': 'historique'}"
+Roman,Le Jardin des Secrets,maria,95.0,3,"{'nb_pages': 320, 'categorie': 'adulte', 'genre': 'romance'}"
+Roman,L'Aube Nouvelle,mustapha,110.0,4,"{'nb_pages': 380, 'categorie': 'adulte', 'genre': 'science-fiction'}"
+Nouvelle,Contes du Désert,ali,45.0,8,"{'nb_pages': 120, 'categorie': 'jeune', 'theme': 'aventure'}"
+Nouvelle,Les Étoiles de Minuit,laila,50.0,6,"{'nb_pages': 150, 'categorie': 'jeune', 'theme': 'fantastique'}"
+BD,Les Aventures de Samir,yahya,65.0,10,"{'nb_pages': 48, 'categorie': 'enfant', 'editeur': 'Dar Al Kitab'}"
+BD,Le Trésor de Carthage,"mustapha,ali",70.0,7,"{'nb_pages': 56, 'categorie': 'jeune', 'editeur': 'Éditions Maghrébines'}"
+LivreScientifique,Introduction à l'Intelligence Artificielle,maria,180.0,4,"{'nb_pages': 500, 'domaine': 'technologie', 'champ_etude': 'informatique'}"
+LivreScientifique,Physique Quantique Moderne,mustapha,200.0,3,"{'nb_pages': 600, 'domaine': 'recherche', 'champ_etude': 'physique'}"
+Encyclopedie,Encyclopédie du Monde Arabe,"yahya,laila,maria",450.0,2,"{'nb_pages': 2000, 'domaine': 'général', 'nb_tomes': 5}"
+Encyclopedie,Grande Encyclopédie des Sciences,"mustapha,ali",500.0,1,"{'nb_pages': 2500, 'domaine': 'général', 'nb_tomes': 6}"
+EbookTexte,Python pour Débutants,maria,40.0,0,{'taille': 2500000}
+EbookTexte,Apprendre l'Arabe,laila,35.0,0,{'taille': 1800000}
+EbookSpecifique,Guide de Programmation PDF,ali,55.0,0,"{'taille': 3500000, 'format': 'PDF', 'logiciel': 'Adobe Reader'}"
+EbookSpecifique,Cours de Mathématiques,mustapha,60.0,0,"{'taille': 4200000, 'format': 'PDF', 'logiciel': 'Adobe Reader'}"
+ManuelScolaire,Mathématiques Terminale,maria,90.0,15,{'niveau_filiere': 'Terminale Sciences Math'}
+ManuelScolaire,Physique Première,mustapha,85.0,12,{'niveau_filiere': 'Première Sciences'}
+Revue,Science et Technologie,"ali,maria",25.0,20,{'date': '2024-03-15'}
+Revue,Littérature Moderne,"laila,yahya",30.0,18,{'date': '2024-03-01'}
+Dictionnaire,Dictionnaire Arabe-Français,yahya,75.0,8,{'langue': 'Arabe'}
+Dictionnaire,Dictionnaire des Sciences,mustapha,80.0,6,{'langue': 'Français'}
